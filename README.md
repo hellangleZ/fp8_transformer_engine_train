@@ -1,6 +1,7 @@
 # fp8_transformer_engine_train
 How to use FP8 to train LLM with multiple GPU
 
+0- python=3.10 
 
 1- First install cudnn 8.92  cuda 12.1 Torch 2.3.1 
 cudnn: https://developer.nvidia.com/rdp/cudnn-archive
